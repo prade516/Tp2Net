@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Business.Entities
 {
-    class Modulo
+    public class Modulo
     {
         private int _Id_Modulo;
         private string _Desc_Modulo;
