@@ -1,0 +1,7 @@
+D:\Facultad\UTN\UTN 2016\Net\TP2\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+D:\Facultad\UTN\UTN 2016\Net\TP2\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe
+D:\Facultad\UTN\UTN 2016\Net\TP2\TP2\UI.Desktop\bin\Debug\UI.Desktop.pdb
+D:\Facultad\UTN\UTN 2016\Net\TP2\TP2\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+D:\Facultad\UTN\UTN 2016\Net\TP2\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.Cache
+D:\Facultad\UTN\UTN 2016\Net\TP2\TP2\UI.Desktop\obj\Debug\UI.Desktop.exe
+D:\Facultad\UTN\UTN 2016\Net\TP2\TP2\UI.Desktop\obj\Debug\UI.Desktop.pdb
